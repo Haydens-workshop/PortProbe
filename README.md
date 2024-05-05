@@ -13,13 +13,6 @@ The idea is for it all to be Flexible and easy to use with a simple command-line
 
 This tool requires Python 3.x. No additional libraries are needed.
 
-## Installation
-
-To get started with QuickPortScan, clone this repository:
-
-```bash
-git clone https://github.com/yourusername/QuickPortScan.git
-cd QuickPortScan
 
 
 example usage :
